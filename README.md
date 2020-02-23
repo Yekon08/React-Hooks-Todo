@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Just do npm install or npm i to install all the dependencies that the project need to work
+Just do npm install or npm i to install all the dependencies that the project need to work.
 
 ### `npm start`
 
